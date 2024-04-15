@@ -1,3 +1,4 @@
+![Codewars Badge](https://www.codewars.com/users/rahmaptr/badges/small)
 # Hello, I'm Rahmah Putri Azzahra 👋
 
 I'm currently learning Web Development and really enjoying the journey.
